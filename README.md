@@ -3,7 +3,8 @@ My first repository
 
 # 1. The Fault in Our Stars
 
-[The Fault in Our Stars Wikipedia](https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars_(film))
+[The Fault in Our Stars Wikipedia]
+(https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars_(film))
 ![thfault](https://github.com/MarcAgodonski/app-dev/assets/151895615/0858bcf0-2572-4c56-a287-d4b3580e19c9)
 
 # 2. Django Unchained
