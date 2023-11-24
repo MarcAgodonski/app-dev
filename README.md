@@ -11,5 +11,5 @@ My first repository
 
 # 3. Initial D Series
 ### [Initial D Series Wikipedia](https://en.wikipedia.org/wiki/Initial_D)
-![IDS_img](![InitialD_vol1_Cover](https://github.com/MarcAgodonski/app-dev/assets/151895615/446964ef-44e0-4a0a-bef3-cffb5851ab81)
-)
+![IDS_img](https://github.com/MarcAgodonski/app-dev/assets/151895615/446964ef-44e0-4a0a-bef3-cffb5851ab81)
+
