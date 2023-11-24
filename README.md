@@ -9,3 +9,4 @@ My first repository
 
 # 3. Initial D Series
 [IDS](https://en.wikipedia.org/wiki/Initial_D)
+![IDS_img](https://github.com/MarcAgodonski/app-dev/assets/151895615/b69ed58f-d38a-4b47-8c13-9b2e612b5d1e)
